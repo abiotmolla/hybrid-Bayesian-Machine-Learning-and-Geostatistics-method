@@ -1,3 +1,4 @@
+The sample data is available at https://doi.org/10.5281/zenodo.24123723 
 # ##############################################################################################################################
 #  A hybrid Bayesian Machine Learning and Geostatistics method for Improved Spatial Prediction of Soil Heavy Metals
 #   Bayesian Additive Regression Trees (BART) section -- complete analysis workflow
